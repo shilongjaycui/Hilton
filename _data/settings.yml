@@ -29,16 +29,14 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Monica Hilton
-  author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  author__name: Jay Cui
+  author__bio: So, If you're looking for robust IT infrastructure in the cloud and/or novel accordion music, let's connect.
   author__avatar: '/images/01-1.jpg'
 
 social:
-- {icon: "fa-brands fa-x-twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-square-facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-instagram", link: "https://instagram.com"}
-- {icon: "fa-brands fa-pinterest", link: "https://pinterest.com"}
-- {icon: "fa-brands fa-github", link: "https://github.com"}
+- {icon: "fa-brands fa-square-facebook", link: "https://www.facebook.com/shilongjaycui"}
+- {icon: "fa-brands fa-instagram", link: "https://www.instagram.com/shilongjaycui/"}
+- {icon: "fa-brands fa-github", link: "https://github.com/shilongjaycui"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://fontawesome.com/icons
